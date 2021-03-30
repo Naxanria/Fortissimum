@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fortissimum:fortinoxium_block"
+    }
+  ],
+  "result": {
+    "item": "fortissimum:fortinoxium_ingot",
+    "count": 9
+  }
+}

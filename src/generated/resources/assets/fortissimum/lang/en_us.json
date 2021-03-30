@@ -1,0 +1,11 @@
+{
+  "block.fortissimum.creative_generator": "Creative Generator",
+  "block.fortissimum.fortinoxium_block": "Fortinoxium Block",
+  "block.fortissimum.fortiorium_endstone_ore": "Fortiorium Endstone Ore",
+  "block.fortissimum.fortiorium_stone_ore": "Fortiorium Stone Ore",
+  "block.fortissimum.noxium_endstone_ore": "Noxium Endstone Ore",
+  "block.fortissimum.noxium_stone_ore": "Noxium Stone Ore",
+  "item.fortissimum.fortinoxium_ingot": "Fortinoxium Ingot",
+  "item.fortissimum.fortiorium": "Fortiorium",
+  "itemGroup.fortissimum": "Fortissimum"
+}

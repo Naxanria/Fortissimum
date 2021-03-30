@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fortissimum:block/noxium_endstone_ore"
+  }
+}
